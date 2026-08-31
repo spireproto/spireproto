@@ -155,7 +155,7 @@ blunt about what does not exist is the cheapest part of that.
 </table>
 <br/>
 
-**[spireproto.xyz](https://spireproto.xyz)** · **[@spireproto](https://x.com/spireproto)** · **[notes](notes)**
+**[spireproto.xyz](https://spireproto.xyz)** · **[@spire_proto](https://x.com/spire_proto)** · **[notes](notes)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCE624,60:68770E,100:050403&height=140&section=footer" width="100%" alt=""/>
 
