@@ -103,7 +103,7 @@ cd spire-checks && node checks/chain.mjs
 
 | | |
 |---|---|
-| **[spire](https://github.com/spireproto/spire)** | The protocol: twelve pages on novation, netting, collateral, defaults and what is not built. |
+| **[spire](https://github.com/spireproto/spire)** | The protocol: twenty pages on novation, netting, collateral, defaults, the API surface and what is not built. |
 | **[spire-core](https://github.com/spireproto/spire-core)** | Windows, novation, netting, margin, collateral, waterfall. BigInt, zero dependencies, 55 tests. |
 | **[spire-sdk](https://github.com/spireproto/spire-sdk)** | Client and EIP-712 signing. Keccak and secp256k1 written out, not pulled in. |
 | **[spire-contracts](https://github.com/spireproto/spire-contracts)** | The on-chain surface as interfaces, published ahead of deployment. |
@@ -117,7 +117,7 @@ cd spire-checks && node checks/chain.mjs
 
 | Stage | Status |
 |---|---|
-| Specification | ✅ complete, 12 pages |
+| Specification | ✅ complete, 20 pages, same source as the site |
 | Clearing arithmetic, tested | ✅ 55 tests, zero dependencies |
 | Signing and client surface | ✅ works offline today |
 | Interfaces, published | ✅ ahead of deployment |
